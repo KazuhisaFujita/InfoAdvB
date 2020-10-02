@@ -5,7 +5,7 @@
 
 - サイトの上の方の__View code__をクリックすると，講義資料と課題のpdfがすべて見える．
 - 必要なpdfをクリックすると__Open binary file__と書かれたリンクがあるページに飛ぶので，そのリンクを押す．
-- リンクを押すと，pdfのダウンロードが始まる．好みのpdfビューワ (iPhoneならiBookが標準ではいっている．AndroidならAdobeやGoogleのpdfビューワをインストールする)で見る．
+- リンクを押すと，pdfのダウンロードが始まる．好みのpdfビューワ (iPhoneならiBookが標準ではいっている．AndroidならAdobeやGoogleのpdfビューワをインストールし見る．
 
 ## 講義内容
 
